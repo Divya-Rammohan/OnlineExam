@@ -1,0 +1,12 @@
+.admin
+{
+  text-align: center;
+  display: inline-block;
+  position:absolute;
+  top:20%;
+  left: 40%;
+}
+.prop{
+  height: 70px;
+  border-radius: 10px;
+}

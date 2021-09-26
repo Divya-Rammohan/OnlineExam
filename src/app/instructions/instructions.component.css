@@ -1,0 +1,13 @@
+.instructions
+{
+  text-align: center;
+}
+.start{
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+}
+.align{
+  top: 80%;
+  left:80%;
+}

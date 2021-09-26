@@ -1,0 +1,16 @@
+.right {
+  text-align: center;
+  display: inline-block;
+  position: absolute;
+  list-style: none;
+  left: 85%;
+}
+.AshClass
+{
+  width:100px;
+  align-items: center;
+  height: 50px;
+  color:black;
+  cursor: pointer;
+  background-color: darkgrey;
+}
